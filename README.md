@@ -1,3 +1,10 @@
+# Repository has been replaced by https://github.com/jaredallard/asahi-overlay/.
+
+> [!IMPORTANT]
+> As of 2024/02/08, this repository has been replaced by https://github.com/jaredallard/asahi-overlay/.
+
+---
+
 # overlay
 
 A general purpose overlay maintained by Outreach.
